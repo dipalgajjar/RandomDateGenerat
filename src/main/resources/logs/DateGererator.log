@@ -1,0 +1,94 @@
+2024-01-18-15:34:03 INFO  BaseTest : setDriver :  Spark report configured
+2024-01-18-15:34:03 INFO  BaseTest : getBrowserType : Headless chrome configured
+2024-01-18-15:34:06 INFO  BaseTest : setDriver : driver object assigned
+2024-01-18-15:34:06 INFO  BaseTest : setup : RDGTC1 Test Object for reporting is created
+2024-01-18-15:34:47 INFO  RandomDateGeneratePage : GenerateRanDate : Stored old dates in variable oldDates
+2024-01-18-15:34:48 INFO  Generate Random Dated Button is clicked
+2024-01-18-15:34:48 INFO  RandomDateGeneratePage : GenerateRanDate : Stored new generated dates in variable newDates
+2024-01-18-15:34:48 INFO  RandomDateGeneratePage : GenerateRanDate : Compared oldDates with NewDated
+2024-01-18-15:34:49 INFO  BaseTest : tearDown : RDGTC1 Tear downn called
+2024-01-18-15:34:49 INFO  BaseTest : setup : RDGTC2 Test Object for reporting is created
+2024-01-18-15:34:54 INFO  RandomDateGeneratePage : countTxt : Cleared the textbox
+2024-01-18-15:34:54 INFO  RandomDateGeneratePage : countTxt : Entered No 5 in the textbox
+2024-01-18-15:34:54 INFO  RandomDateGeneratePage : len : Stored length of entered dates
+2024-01-18-15:34:54 INFO  RandomDateGeneratePage : len : Dates counted
+2024-01-18-15:34:54 INFO  RandomDateGeneratePage : VerifyDate : Compared generated no of dates with entered Number
+2024-01-18-15:34:54 INFO  BaseTest : tearDown : RDGTC2 Tear downn called
+2024-01-18-15:34:54 INFO  BaseTest : setup : RDGTC3SelectFormate Test Object for reporting is created
+2024-01-18-15:34:58 INFO  RandomDateGeneratePage : SelectFormate : Selected date format as mm-dd-yyyy-hh-mm-ss
+2024-01-18-15:34:58 INFO  RandomDateGeneratePage : VerifyGeneratedDateFormat : Expected date format as mm-dd-yyyy-hh-mm-ss
+2024-01-18-15:34:58 INFO  RandomDateGeneratePage : VerifyGeneratedDateFormat : Created SimpleDateFormat object
+2024-01-18-15:34:58 INFO  RandomDateGeneratePage : VerifyGeneratedDateFormat : Parsing date format as mm-dd-yyyy-hh-mm-ss
+2024-01-18-15:34:58 INFO  BaseTest : tearDown : RDGTC3SelectFormate Tear downn called
+2024-01-18-15:34:58 INFO  BaseTest : setup : RDGTC4Customormate Test Object for reporting is created
+2024-01-18-15:35:01 INFO  RandomDateGeneratePage : customFormate : Cleared the cusom date textbox
+2024-01-18-15:35:01 INFO  RandomDateGeneratePage : customFormate : Entered cusom date format YYYY-MM-DD
+2024-01-18-15:35:01 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormat : Expected date format as is YYYY-MM-DD
+2024-01-18-15:35:01 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormat : Created SimpleDateFormat object
+2024-01-18-15:35:01 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormat : Parsing Date
+2024-01-18-15:35:01 INFO  BaseTest : tearDown : RDGTC4Customormate Tear downn called
+2024-01-18-15:35:01 INFO  BaseTest : setup : RDGTC5CustomormateDrp Test Object for reporting is created
+2024-01-18-15:35:04 INFO  RandomDateGeneratePage : SelectFormateCusomDate : Selected 'Custom Date Format' from dropdown
+2024-01-18-15:35:04 INFO  RandomDateGeneratePage : customFormate : Cleared the cusom date textbox
+2024-01-18-15:35:04 INFO  RandomDateGeneratePage : customFormate : Entered cusom date format YYYY-MM-DD
+2024-01-18-15:35:04 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : Expectedformat is 'yyyy-MM-dd'
+2024-01-18-15:35:04 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : SimpleDateFormat object is created
+2024-01-18-15:35:04 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : parsing generated date 
+2024-01-18-15:35:04 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : Formated parsedDate
+2024-01-18-15:35:04 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : Compared Entered formate and generated formate
+2024-01-18-15:35:04 INFO  BaseTest : tearDown : RDGTC5CustomormateDrp Tear downn called
+2024-01-18-15:35:04 INFO  BaseTest : setup : RDGTC6StartEndDate Test Object for reporting is created
+2024-01-18-15:35:07 INFO  RandomDateGeneratePage : StartEndDate :Cleared Start Date texbox
+2024-01-18-15:35:07 INFO  RandomDateGeneratePage : StartEndDate :Entered Start Date
+2024-01-18-15:35:07 INFO  RandomDateGeneratePage : StartEndDate :Cleared End Date texbox
+2024-01-18-15:35:07 INFO  RandomDateGeneratePage : StartEndDate :Entered End Date
+2024-01-18-15:35:07 INFO  BaseTest : tearDown : RDGTC6StartEndDate Tear downn called
+2024-01-18-15:35:07 INFO  BaseTest : removeDriver : removed driver
+2024-01-18-15:36:17 INFO  BaseTest : setDriver :  Spark report configured
+2024-01-18-15:36:17 INFO  BaseTest : getBrowserType : Headless chrome configured
+2024-01-18-15:36:20 INFO  BaseTest : setDriver : driver object assigned
+2024-01-18-15:36:20 INFO  BaseTest : setup : RDGTC1 Test Object for reporting is created
+2024-01-18-15:36:28 INFO  RandomDateGeneratePage : GenerateRanDate : Stored old dates in variable oldDates
+2024-01-18-15:36:29 INFO  Generate Random Dated Button is clicked
+2024-01-18-15:36:29 INFO  RandomDateGeneratePage : GenerateRanDate : Stored new generated dates in variable newDates
+2024-01-18-15:36:29 INFO  RandomDateGeneratePage : GenerateRanDate : Compared oldDates with NewDated
+2024-01-18-15:36:30 INFO  RandomDateGeneratePage : BtnCopy : Clicked on 'Copy' Button
+2024-01-18-15:36:30 INFO  RandomDateGeneratePage : BtnDownload : Clicked on 'Download' Button
+2024-01-18-15:36:30 INFO  BaseTest : tearDown : RDGTC1 Tear downn called
+2024-01-18-15:36:30 INFO  BaseTest : setup : RDGTC2 Test Object for reporting is created
+2024-01-18-15:36:34 INFO  RandomDateGeneratePage : countTxt : Cleared the textbox
+2024-01-18-15:36:34 INFO  RandomDateGeneratePage : countTxt : Entered No 5 in the textbox
+2024-01-18-15:36:34 INFO  RandomDateGeneratePage : len : Stored length of entered dates
+2024-01-18-15:36:34 INFO  RandomDateGeneratePage : len : Dates counted
+2024-01-18-15:36:34 INFO  RandomDateGeneratePage : VerifyDate : Compared generated no of dates with entered Number
+2024-01-18-15:36:34 INFO  BaseTest : tearDown : RDGTC2 Tear downn called
+2024-01-18-15:36:34 INFO  BaseTest : setup : RDGTC3SelectFormate Test Object for reporting is created
+2024-01-18-15:36:36 INFO  RandomDateGeneratePage : SelectFormate : Selected date format as mm-dd-yyyy-hh-mm-ss
+2024-01-18-15:36:36 INFO  RandomDateGeneratePage : VerifyGeneratedDateFormat : Expected date format as mm-dd-yyyy-hh-mm-ss
+2024-01-18-15:36:36 INFO  RandomDateGeneratePage : VerifyGeneratedDateFormat : Created SimpleDateFormat object
+2024-01-18-15:36:36 INFO  RandomDateGeneratePage : VerifyGeneratedDateFormat : Parsing date format as mm-dd-yyyy-hh-mm-ss
+2024-01-18-15:36:36 INFO  BaseTest : tearDown : RDGTC3SelectFormate Tear downn called
+2024-01-18-15:36:36 INFO  BaseTest : setup : RDGTC4Customormate Test Object for reporting is created
+2024-01-18-15:36:38 INFO  RandomDateGeneratePage : customFormate : Cleared the cusom date textbox
+2024-01-18-15:36:38 INFO  RandomDateGeneratePage : customFormate : Entered cusom date format YYYY-MM-DD
+2024-01-18-15:36:38 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormat : Expected date format as is YYYY-MM-DD
+2024-01-18-15:36:38 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormat : Created SimpleDateFormat object
+2024-01-18-15:36:38 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormat : Parsing Date
+2024-01-18-15:36:38 INFO  BaseTest : tearDown : RDGTC4Customormate Tear downn called
+2024-01-18-15:36:38 INFO  BaseTest : setup : RDGTC5CustomormateDrp Test Object for reporting is created
+2024-01-18-15:36:41 INFO  RandomDateGeneratePage : SelectFormateCusomDate : Selected 'Custom Date Format' from dropdown
+2024-01-18-15:36:41 INFO  RandomDateGeneratePage : customFormate : Cleared the cusom date textbox
+2024-01-18-15:36:42 INFO  RandomDateGeneratePage : customFormate : Entered cusom date format YYYY-MM-DD
+2024-01-18-15:36:42 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : Expectedformat is 'yyyy-MM-dd'
+2024-01-18-15:36:42 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : SimpleDateFormat object is created
+2024-01-18-15:36:42 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : parsing generated date 
+2024-01-18-15:36:42 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : Formated parsedDate
+2024-01-18-15:36:42 INFO  RandomDateGeneratePage : VerifyGeneratedCustomDateFormatDrp : Compared Entered formate and generated formate
+2024-01-18-15:36:42 INFO  BaseTest : tearDown : RDGTC5CustomormateDrp Tear downn called
+2024-01-18-15:36:42 INFO  BaseTest : setup : RDGTC6StartEndDate Test Object for reporting is created
+2024-01-18-15:36:44 INFO  RandomDateGeneratePage : StartEndDate :Cleared Start Date texbox
+2024-01-18-15:36:44 INFO  RandomDateGeneratePage : StartEndDate :Entered Start Date
+2024-01-18-15:36:44 INFO  RandomDateGeneratePage : StartEndDate :Cleared End Date texbox
+2024-01-18-15:36:44 INFO  RandomDateGeneratePage : StartEndDate :Entered End Date
+2024-01-18-15:36:44 INFO  BaseTest : tearDown : RDGTC6StartEndDate Tear downn called
+2024-01-18-15:36:44 INFO  BaseTest : removeDriver : removed driver

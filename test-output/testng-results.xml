@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-18T15:36:17 PST" name="Default suite" finished-at="2024-01-18T15:36:45 PST" duration-ms="27463">
+    <groups>
+    </groups>
+    <test started-at="2024-01-18T15:36:17 PST" name="Default test" finished-at="2024-01-18T15:36:45 PST" duration-ms="27463">
+      <class name="tests.TC1RandonDateGenerate">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:17 PST" name="setDriver" finished-at="2024-01-18T15:36:20 PST" duration-ms="3163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:20 PST" name="setup" finished-at="2024-01-18T15:36:20 PST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC1() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RDGTC1()[pri:1, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:20 PST" name="RDGTC1" finished-at="2024-01-18T15:36:30 PST" duration-ms="9361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RDGTC1 -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:30 PST" name="tearDown" finished-at="2024-01-18T15:36:30 PST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC1() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:30 PST" name="setup" finished-at="2024-01-18T15:36:30 PST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC2() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RDGTC2()[pri:2, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:30 PST" name="RDGTC2" finished-at="2024-01-18T15:36:34 PST" duration-ms="3915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RDGTC2 -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:34 PST" name="tearDown" finished-at="2024-01-18T15:36:34 PST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC2() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="RDGTC3SelectFormate()[pri:3, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:34 PST" name="RDGTC3SelectFormate" finished-at="2024-01-18T15:36:36 PST" duration-ms="2218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RDGTC3SelectFormate -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:34 PST" name="setup" finished-at="2024-01-18T15:36:34 PST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC3SelectFormate() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException,java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:36 PST" name="tearDown" finished-at="2024-01-18T15:36:36 PST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC3SelectFormate() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException,java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="RDGTC4Customormate()[pri:4, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:36 PST" name="RDGTC4Customormate" finished-at="2024-01-18T15:36:38 PST" duration-ms="2464" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Sun Dec 27 00:00:00 PST 5] but found [YYYY-MM-DD]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Sun Dec 27 00:00:00 PST 5] but found [YYYY-MM-DD]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:643)
+at pages.RandomDateGeneratePage.VerifyGeneratedCustomDateFormat(RandomDateGeneratePage.java:162)
+at tests.TC1RandonDateGenerate.RDGTC4Customormate(TC1RandonDateGenerate.java:99)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RDGTC4Customormate -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:36 PST" name="setup" finished-at="2024-01-18T15:36:36 PST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC4Customormate() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException,java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:38 PST" name="tearDown" finished-at="2024-01-18T15:36:38 PST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC4Customormate() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException,java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:38 PST" name="setup" finished-at="2024-01-18T15:36:38 PST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC5CustomormateDrp() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException,java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RDGTC5CustomormateDrp()[pri:5, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:38 PST" name="RDGTC5CustomormateDrp" finished-at="2024-01-18T15:36:42 PST" duration-ms="3092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RDGTC5CustomormateDrp -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:42 PST" name="tearDown" finished-at="2024-01-18T15:36:42 PST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC5CustomormateDrp() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException,java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="RDGTC6StartEndDate()[pri:6, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:42 PST" name="RDGTC6StartEndDate" finished-at="2024-01-18T15:36:44 PST" duration-ms="2823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RDGTC6StartEndDate -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:42 PST" name="setup" finished-at="2024-01-18T15:36:42 PST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC6StartEndDate() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException,java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:44 PST" name="tearDown" finished-at="2024-01-18T15:36:44 PST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1RandonDateGenerate.RDGTC6StartEndDate() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException,java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="removeDriver()[pri:0, instance:tests.TC1RandonDateGenerate@5707c1cb]" started-at="2024-01-18T15:36:44 PST" name="removeDriver" finished-at="2024-01-18T15:36:45 PST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeDriver -->
+      </class> <!-- tests.TC1RandonDateGenerate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
